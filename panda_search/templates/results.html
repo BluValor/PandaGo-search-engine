@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>results</title>
+</head>
+<body>
+    {% if results_list %}
+        <ul>
+        {% for article in results_list %}
+            <li><a href="/panda_go/article/{{ article.id }}/">{{ article.title }}</a></li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No results.</p>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>article data</title>
+</head>
+<body>
+    {% if article %}
+        <p> <b> {{ article.title }} </b> </p>
+        <p> <i> {{ article.publication|add:' '|add:article.date|add:', '|add:article.author }} </i> </p>
+        <p> {{ article.content }} </p>
+    {% else %}
+        <p>No results.</p>
+    {% endif %}
+</body>
+</html>
