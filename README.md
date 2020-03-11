@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/BluValor/PandaGo-search-engine/blob/master/readme/pandago.png" alt="TinPin" width="300">
+  <img src="https://github.com/BluValor/PandaGo-search-engine/blob/master/readme/pandago.png" alt="TinPin" width="400">
   <br>PandaGo search engine<br>
 </h1>
 
@@ -11,7 +11,7 @@ Dataset used here comes from [here](https://www.kaggle.com/snapcrack/all-the-new
 
 ## Screenshots
 <p align="justify">
-  <img src="https://github.com/BluValor/PandaGo-search-engine/blob/master/readme/screenshot1.png" alt="PandaGo" width="800">
-  <img src="https://github.com/BluValor/PandaGo-search-engine/blob/master/readme/screenshot2.png" alt="PandaGo" width="800">
-  <img src="https://github.com/BluValor/PandaGo-search-engine/blob/master/readme/screenshot3.png" alt="PandaGo" width="800">
+  <img src="https://github.com/BluValor/PandaGo-search-engine/blob/master/readme/screenshot1.png" alt="PandaGo">
+  <img src="https://github.com/BluValor/PandaGo-search-engine/blob/master/readme/screenshot2.png" alt="PandaGo">
+  <img src="https://github.com/BluValor/PandaGo-search-engine/blob/master/readme/screenshot3.png" alt="PandaGo">
 </p>
